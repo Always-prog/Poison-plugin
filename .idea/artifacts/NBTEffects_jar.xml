@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NBTEffects:jar">
+    <output-path>$USER_HOME$/Desktop/pages/NBTtagServer/plugins</output-path>
+    <root id="archive" name="StackPotions-AlwaysProg.jar">
+      <element id="module-output" name="StackPotions-AlwaysProg" />
+    </root>
+  </artifact>
+</component>
