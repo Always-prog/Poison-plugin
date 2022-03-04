@@ -1,9 +1,0 @@
-name: StackPotions
-version: 1.0.0
-author: AlwaysProg
-main: main.EnableDisable
-api-version: 1.16
-commands:
-  potions:
-    description: Используйте эту команду, чтобы застакать зелья что у вас в инвенторе!
-    usage: /potions
