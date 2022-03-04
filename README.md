@@ -16,3 +16,7 @@ Exists BNT tags:<br/>
 <code>Wither LvL2</code> - EffectWither2<br/>
 <code>Poison</code> - EffectPoison<br/>
 <code>Poison LvL2</code> - EffectPoison2<br/>
+
+
+Code is here: <code>https://github.com/Always-prog/Poison-plugin/tree/main/src/main</code><br/>
+Plugin in .jar is here: <code>https://github.com/Always-prog/Poison-plugin/tree/main/out/</code>
