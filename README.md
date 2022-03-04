@@ -19,4 +19,10 @@ Exists BNT tags:<br/>
 
 
 Code is here: <code>https://github.com/Always-prog/Poison-plugin/tree/main/src/main</code><br/>
-Plugin in .jar is here: <code>https://github.com/Always-prog/Poison-plugin/tree/main/out/</code>
+Plugin in .jar is here: <code>https://github.com/Always-prog/Poison-plugin/blob/main/plugin/Poison-1.18.1.jar.jar</code><br/>
+
+<h2></h2>
+<h3>To run this plugin or your 1.18.1 server you need:</h3><br/>
+1. Download both plugins from <code>plugin</code> directory<br/>
+2. Move plugins to your plugins directory (https://www.alphr.com/spigot-how-to-add-plugins/)<br/>
+3. Restart the server.<br/>
