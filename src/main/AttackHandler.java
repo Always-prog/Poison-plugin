@@ -35,6 +35,7 @@ public class AttackHandler implements Listener {
             String effect_nbt_wither2 = nbt.getString("EffectWither2");
             String effect_nbt_poison = nbt.getString("EffectPoison");
             String effect_nbt_poison2 = nbt.getString("EffectPoison2");
+            String effect_nbt_slowness = nbt.getString("EffectSlowness");
 
             if (!effect_nbt_wither.equals("")) { //WITHER
                 livingEntity.addPotionEffect(new PotionEffect(PotionEffectType.WITHER,
@@ -51,6 +52,10 @@ public class AttackHandler implements Listener {
             if (!effect_nbt_poison2.equals("")) { //POISON 2
                 livingEntity.addPotionEffect(new PotionEffect(PotionEffectType.POISON,
                         Integer.parseInt(effect_nbt_poison2)*20, 2));
+            }
+            if (!effect_nbt_slowness.equals("")) { //SLOWNESS
+                livingEntity.addPotionEffect(new PotionEffect(PotionEffectType.SLOW,
+                        Integer.parseInt(effect_nbt_slowness)*20, 1));
             }
 
 
